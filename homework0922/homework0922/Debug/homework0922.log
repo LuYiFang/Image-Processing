@@ -1,0 +1,50 @@
+﻿已經開始建置於 2015/12/15 下午 12:03:59。
+     1>節點 2 (build 目標) 上的專案 "C:\Users\sars0_000\Documents\Visual Studio 2010\Projects\homework0922\homework0922\homework0922.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\homework0922.unsuccessfulbuild"。
+       GenerateTargetFrameworkMonikerAttribute:
+       將略過目標 "GenerateTargetFrameworkMonikerAttribute"，因為所有輸出檔對於其輸入檔而言都已更新。
+       ClCompile:
+         所有輸出都是最新的。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\homework0922.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt homework0922.cpp /clr:nostdlib 
+         homework0922.cpp
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(1518): warning C4244: '引數' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(1561): warning C4244: '=' : 將 'double' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(2023): warning C4244: '=' : 將 'double' 轉換為 'unsigned char'，由於型別不同，可能導致資料遺失
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(2024): warning C4244: '=' : 將 'double' 轉換為 'unsigned char'，由於型別不同，可能導致資料遺失
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(2025): warning C4244: '=' : 將 'double' 轉換為 'unsigned char'，由於型別不同，可能導致資料遺失
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(1980): warning C4101: 'b' : 未參考的區域變數
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(1980): warning C4101: 'g' : 未參考的區域變數
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(1980): warning C4101: 'gx1' : 未參考的區域變數
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(1980): warning C4101: 'r' : 未參考的區域變數
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(1980): warning C4101: 'm' : 未參考的區域變數
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(1980): warning C4101: 'gy1' : 未參考的區域變數
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(2109): warning C4553: '==' : 運算子無效; 要使用 '=' 嗎?
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(2220): warning C4244: '=' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(2228): warning C4244: '=' : 將 'double' 轉換為 'unsigned char'，由於型別不同，可能導致資料遺失
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(2333): warning C4244: '=' : 將 'double' 轉換為 'unsigned char'，由於型別不同，可能導致資料遺失
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(2454): warning C4244: '=' : 將 'double' 轉換為 'unsigned char'，由於型別不同，可能導致資料遺失
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(2475): warning C4244: '正在初始化' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+     1>c:\users\sars0_000\documents\visual studio 2010\projects\homework0922\homework0922\Form1.h(2476): warning C4244: '正在初始化' : 將 'double' 轉換為 'int'，由於型別不同，可能導致資料遺失
+         所有輸出都是最新的。
+       CoreResGen:
+         相對於資源的來源檔案，並沒有資源過期。將略過產生資源。
+       ResourceCompile:
+         所有輸出都是最新的。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\sars0_000\Documents\Visual Studio 2010\Projects\homework0922\Debug\homework0922.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\homework0922.Form1.resources /MANIFEST /ManifestFile:"Debug\homework0922.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\sars0_000\Documents\Visual Studio 2010\Projects\homework0922\Debug\homework0922.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\homework0922.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         homework0922.vcxproj -> C:\Users\sars0_000\Documents\Visual Studio 2010\Projects\homework0922\Debug\homework0922.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\sars0_000\Documents\Visual Studio 2010\Projects\homework0922\Debug\homework0922.exe;#1" /manifest Debug\homework0922.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\homework0922.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\homework0922.lastbuildstate"。
+     1>專案 "C:\Users\sars0_000\Documents\Visual Studio 2010\Projects\homework0922\homework0922\homework0922.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.59
